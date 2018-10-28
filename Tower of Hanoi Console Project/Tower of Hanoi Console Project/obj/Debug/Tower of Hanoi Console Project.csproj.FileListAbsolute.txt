@@ -1,0 +1,19 @@
+c:\users\faris\documents\visual studio 2015\Projects\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.exe.config
+C:\Users\Faris\Documents\Visual Studio 2015\Projects\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.exe
+C:\Users\Faris\Documents\Visual Studio 2015\Projects\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.pdb
+C:\Users\Faris\Documents\Visual Studio 2015\Projects\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.csprojResolveAssemblyReference.cache
+C:\Users\Faris\Documents\Visual Studio 2015\Projects\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.exe
+C:\Users\Faris\Documents\Visual Studio 2015\Projects\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.pdb
+E:\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.exe.config
+E:\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.exe
+E:\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.pdb
+E:\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.exe
+E:\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.pdb
+E:\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.csprojResolveAssemblyReference.cache
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.exe.config
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.exe
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\bin\Debug\Tower of Hanoi Console Project.pdb
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.csprojResolveAssemblyReference.cache
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.exe
+C:\Users\Dell\OneDrive\UNI WORK\Tower-of-Hanoi-Console-Project\Tower of Hanoi Console Project\Tower of Hanoi Console Project\obj\Debug\Tower of Hanoi Console Project.pdb
